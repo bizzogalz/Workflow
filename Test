@@ -1,4 +1,5 @@
-{"Wflow Folder":"Intro\n<description>Wflow Folder\n将 Wflow 在 Today Widget 中以文件夹方式显示\n支持自定义 Wflow 文件夹数量\nby Neurogram\nApril 1, 2017</description><dl link>https://workflow.is/workflows/5689366e6c1d4e82a778d7a87a17f156</dl link>",
+{
+"Wflow Folder":"Intro\n<description>Wflow Folder\n将 Wflow 在 Today Widget 中以文件夹方式显示\n支持自定义 Wflow 文件夹数量\nby Neurogram\nApril 1, 2017</description><dl link>https://workflow.is/workflows/5689366e6c1d4e82a778d7a87a17f156</dl link>",
 "All to PDF":"Intro\n<description>All to PDF\n将网页/剪贴板内容/网址/图片转为PDF\n支持对图片进行编辑\n支持分享到其他应用或保存到 iCloud / Dropbox\nby Icefield\nApril 1, 2017</description><dl link>https://workflow.is/workflows/ec751db2252f44979441cfaf2f6675ff</dl link>",
 "Open in Browser":"Intro\n<description>Open in Browser\n选择文本内容 / 剪切板内容 通过 Action Extension 在 Safari / Chrome 中打开链接 或者 Google / Baidu 文本内容\nby Icefield\nApril 1, 2017</description><dl link>https://workflow.is/workflows/f5db5acece4d447dbdaac309f061e036</dl link>",
 "File Info":"Intro\n<description>File Info\n查看照片/图片/文件的具体信息\nby JailbreakHum\nMarch 31, 2017</description><dl link>https://workflow.is/workflows/48851984bdbb48cc93a8d788d8cb11fc</dl link>",
@@ -32,4 +33,5 @@
 "Auto-update lhie1（SP）":"Intro\n<description>Auto-update lhie1（SP）\n单站点提取节点生成 lhie1 Surge 规则托管配置链接 wflow（账号密码相同版）\nby Neurogram\nMarch 28, 2017</description><web>http://www.taguage.com/dblog?id=835492</web><dl link>https://workflow.is/workflows/18730f06ce0643ddbf1382ddf94c458c</dl link>",
 "Auto-update lhie1（DP）":"Intro\n<description>Auto-update lhie1（DP）\n单站点提取节点生成 lhie1 Surge 规则托管配置链接 wflow（账号密码不同版）\nby Neurogram\nMarch 28, 2017</description><web>http://www.taguage.com/dblog?id=835492</web><dl link>https://workflow.is/workflows/9afa27dd79de4d47ac2d280247770073</dl link>",
 "Rule-update lhie1（RP）":"Intro\n<description>Rule-update lhie1（RP）\n在原 Surge conf 配置上仅更新/更新为 lhie1 Surge 规则或扫码添加新节点 wflow\nby Neurogram\nMarch 28, 2017</description><web>http://www.taguage.com/dblog?id=835492</web><dl link>https://workflow.is/workflows/a6f2247b1ec5476890a1643f2659d102</dl link>",
-"Rule-update lhie1（MP）":"Intro\n<description>Rule-update lhie1（MP）\n在原 Surge conf 配置上仅更新/更新为 lhie1 Surge 规则或扫码添加新节点 wflow\nby Neurogram\nMarch 28, 2017</description><web>http://www.taguage.com/dblog?id=835492</web><dl link>https://workflow.is/workflows/c6c4e6707a794a6881bfaf281a76502a</dl link>"}
+"Rule-update lhie1（MP）":"Intro\n<description>Rule-update lhie1（MP）\n在原 Surge conf 配置上仅更新/更新为 lhie1 Surge 规则或扫码添加新节点 wflow\nby Neurogram\nMarch 28, 2017</description><web>http://www.taguage.com/dblog?id=835492</web><dl link>https://workflow.is/workflows/c6c4e6707a794a6881bfaf281a76502a</dl link>"
+}
