@@ -1,4 +1,5 @@
 {
+"Check in":"SS多站一键签到\n<description>Check in\nSS多站一键签到\n适配常见的免费站点（cccat、西站、实验室 etc.）\nJune 5, 2017</description><dl link>https://workflow.is/workflows/71121d17a1c44c0b979d545e475fb078</dl link>",
 "Wflow Folder":"通知中心Wflow文件夹\n<description>Wflow Folder\n将 Wflow 在 Today Widget 中以文件夹方式显示\n支持自定义 Wflow 文件夹数量\nby Neurogram\nMay 22, 2017</description><dl link>https://workflow.is/workflows/579fa6dababe4e9f84f126e8338dab47</dl link>",
 "Website Translator":"网页中英互译\n<description>Website Translator\n网页中英互译\nMay 1, 2017</description><dl link>https://workflow.is/workflows/884d8549d0d14ee9af94a852122568ca</dl link>",
 "签到ss节点更新":"提取SS站节点加入lhie1规则到Surge\n<description>签到ss节点更新\n提取SS站节点加入lhie1规则到Surge\nby anton.j\nApril 24, 2017</description><dl link>https://workflow.is/workflows/d9440a405e2040e0ab8b671a83111029</dl link>",
@@ -18,6 +19,4 @@
 "App Store Region":"自定义App Store地区，快速切换\n<description>App Store Region\nApp Store地区切换Wflow，预先填入切换区域国家的名称后运行即可\n支持184个国家区域\nby Neurogram\nMarch 30, 2017</description><dl link>https://workflow.is/workflows/5971e51471a44246a0a8b6f0b23a5122</dl link>",
 "WF Gallery by sspai":"浏览和下载少数派Workflow Gallery上的Wflow\n<description>WF Gallery by sspai\n浏览和下载少数派Workflow Gallery上的Wflow\nby Ryan\nMarch 30, 2017</description><dl link>https://workflow.is/workflows/b099a3c65f0f47b58ff9909ce143e732</dl link>",
 "详查App.信息":"查询 App 具体信息\n<description>详查App.信息\n查询 App 具体信息\n1.App 详情\n2.历史版本 ID\n3.图标下载\n4.价格变动明细\nMarch 28, 2017</description><dl link>https://workflow.is/workflows/9fe2a2555d9b47b6badc3acad1fce4fe</dl link>",
-"Workflow备份恢复清理":"一键备份/恢复/清理相关Wflow\n<description>Workflow备份恢复清理\n一键备份清理 Workflow 至 iCloud\nby m wind\nMarch 24, 2017</description><web>http://meiycs.com/post/workflow/gong-zuo-liu-bei-fen</web><dl link>https://workflow.is/workflows/a8b54921c7144029a172e0a8b842f2ee</dl link>",
-"SS Check in（SP）":"SS多站一键签到（账号密码相同版）\n<description>SS Check in（SP）\nSS多站一键签到 wflow（账号密码相同版）\n适配常见的免费站点（cccat、西站、实验室 etc.）\nby Neurogram\nMarch 28, 2017</description><web>http://www.taguage.com/dblog?id=836611</web><dl link>https://workflow.is/workflows/ab5338196d3d41fea21a35bc7dcd75ca</dl link>",
-"SS Check in（DP）":"SS多站一键签到（账号密码不同版）\n<description>SS Check in（DP）\nSS多站一键签到 wflow（账号密码不同版）\n适配常见的免费站点（cccat、西站、实验室 etc.）\nby Neurogram\nMarch 28, 2017</description><web>http://www.taguage.com/dblog?id=836611</web><dl link>https://workflow.is/workflows/c91c48c8a6b54b98aa0f2a6c67489356</dl link>"}
+"Workflow备份恢复清理":"一键备份/恢复/清理相关Wflow\n<description>Workflow备份恢复清理\n一键备份清理 Workflow 至 iCloud\nby m wind\nMarch 24, 2017</description><web>http://meiycs.com/post/workflow/gong-zuo-liu-bei-fen</web><dl link>https://workflow.is/workflows/a8b54921c7144029a172e0a8b842f2ee</dl link>"}
